@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TableRow>
+        <TextView
+            android:id="@+id/Task_name_tv"
+            android:text="Design layout for User"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_weight="2"
+            android:background="@drawable/big_tv"
+            />
+        <TextView
+            android:id="@+id/Task_start_Date_tv"
+            android:text="10/04/2023"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/big_tv"
+            />
+        <TextView
+            android:id="@+id/Task_End_Date_tv"
+            android:text="17/04/2023"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_weight="0.5"
+            android:background="@drawable/big_tv"
+            />
+    </TableRow>
+
+</TableLayout>

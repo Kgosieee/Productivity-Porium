@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957621838524",
+    "project_id": "productivity-porium-firebase",
+    "storage_bucket": "productivity-porium-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957621838524:android:1605767e61b09b970426b9",
+        "android_client_info": {
+          "package_name": "com.example.productivity_porium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957621838524-0kr4hdouhtuspogvqf9587arolqfbgfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWimsNKcrN94ZWjGD9QQ2ITYChNMzMi38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957621838524-0kr4hdouhtuspogvqf9587arolqfbgfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

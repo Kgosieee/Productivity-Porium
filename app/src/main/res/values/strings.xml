@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Productivity-Porium</string>
+    <string name="login_now">LOGIN NOW</string>
+    <string name="register">REGISTER</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="signup">SIGNUP</string>
+    <string name="passwordl">Password</string>
+    <string name="name">Name</string>
+    <string name="login">LOGIN</string>
+    <string name="loginl">Login</string>
+    <string name="register_now">REGISTER NOW</string>
+    <string name="logout">logout</string>
+    <string name="create_new_project">Create New Project</string>
+    <string name="project_name">Project Name</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="save">Save</string>
+</resources>
